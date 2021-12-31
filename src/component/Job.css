@@ -1,0 +1,32 @@
+h2 {
+  color: black;
+  margin: 18px 17px 70px 17px;
+  width: 258px;
+  height: 157px;
+  font-size: 30px;
+  font-weight: 400;
+}
+span {
+  width: 184px;
+  height: 21px;
+  color: black;
+}
+.description {
+  margin-left: 19px;
+  margin-bottom: 15px;
+}
+.red {
+  border: solid 10px red;
+}
+.green {
+  border: solid 10px green;
+}
+.yellow {
+  border: solid 10px yellow;
+}
+.blue {
+  border: solid 10px blue;
+}
+.orange {
+  border: solid 10px orange;
+}
